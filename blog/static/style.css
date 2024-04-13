@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: #081d71;
+}
+
+h2 {
+    color: #083668;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(208, 160, 160);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+span, a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #498cce;
+}
